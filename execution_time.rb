@@ -51,7 +51,6 @@ def largest_contiguous_sum_o_n(list)
       sum = current_sum if current_sum > sum
     end
   end
-  
   sum
 end
 
